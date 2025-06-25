@@ -1,0 +1,65 @@
+what is html ?
+  html stands for hypertext markup language
+  html first time released in 1986 by tim berner lee 
+  html is used for make a website 
+  html is a case-insenstive language 
+  examples : <html> </html> or <HTML></HTML> or <Html></Html>
+  html is not any language it is a markup language
+
+what is hypertext ? 
+  hypertext meanse redirect one page to another page 
+  examples : <a href='https://www.flipkart.com'>Flipkart</a> 
+ 
+what is markup language ? 
+ 
+  markup language is always enguaged with web broswers or load on web broswers thats why we called html is not language it is a markup language.
+
+
+  example : hypertext.html
+
+
+html structure ?
+
+Note : html structure  or html boiler plate or skelton of html
+
+<html>
+  <head> </head>
+  <body>
+    <h1>Hey i am just used html</h1>
+  </body>
+</html>
+
+html file extension .htm or .html 
+html provides tags or element that can be make any structure of webpage
+html tag case-insenstive defined enclosed within <> angular bracket
+
+types of tag ..
+
+  two types of tags 
+  a) paired tag 
+       ex: tag are paired start and closed i.e called paired 
+           1)<p></p>
+           2)<h1></h1>
+           3)<strong></strong>
+           4)<marquee></marquee>  
+  b) non-paired tag 
+   ex: tag are non-paired start but not need to closed i.e called non-paired 
+           1)<br>
+           2)<hr>
+           3)<p>
+           4)<img>
+           5)<input>
+           6)<meta>
+           7)<link>   
+
+what is html elements ? 
+  examples : <p>Hi Brijesh</p>
+             
+   types of element : 
+
+   a) block element
+        
+        examples :<p></p> <h1></h1> <div></div> 
+   b) non-element 
+             
+        examples:<b></b> <strong></strong> <input>     
