@@ -1,0 +1,21 @@
+What is the difference between block-level elements and inline elements in HTML? Provide examples of each.
+
+    --> Block level element coverd 100% width in pages, means they start a new line and coverd a full width.
+
+                    Block Levekl element                                      inline element
+
+        -> Block Level element coverd a 100% width.                 -> they not coverd a 100% width.
+                                                                 
+                                                                       
+        -> thay started a new line.                                 -> inline element not start a new line.
+
+        -> Ex. <h1>                                                 -> Ex. <a>
+                <h2>                                                       <b>
+                <h3>                                                       <input>
+                <h4>                                                       <br>
+                <h5>                                                       <span>
+                <h6>                                                       <sub> 
+                <fieldcaption>                                             <sup>
+                <video>                                                    <textarea>
+                <p>                                                        <lable>
+                <ul>                                                       <em> / <i>
